@@ -1,5 +1,6 @@
 # File Share
 
+[![Actions](https://github.com/wk-j/file-share/workflows/NuGet/badge.svg)](https://github.com/wk-j/file-share/actions)
 [![NuGet](https://buildstats.info/nuget/wk.FileShare)](https://www.nuget.org/packages/wk.FileShare)
 
 <p align="center">
